@@ -43,6 +43,7 @@ footer {
 .social-links li {
     display: inline;
     margin: 0 10px;
+    color: white;
     
     :visited {
       color: white;
